@@ -3,12 +3,13 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/janakunft"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Edenred component library",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
-    "dist"
+    "dist",
+    "src"
   ],
   "types": "dist/index.d.ts",
   "scripts": {
